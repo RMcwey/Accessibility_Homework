@@ -7,3 +7,4 @@ I have made the page semantically correct and added comments on the html and css
 3. Screen Shot of Functioning Page
 https://watch.screencastify.com/v/ApHEm7vmXS2Cdtla7TqR 
 4. Link to the page
+https://rmcwey.github.io/Accessibility_Homework/
