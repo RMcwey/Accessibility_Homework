@@ -5,7 +5,7 @@ The page is basic and only has a few links that will bring the user to different
 2. My Role
 I have made the page semantically correct and added comments on the html and css documents for all the changes that were made. 
 3. Screen Shot of Functioning Page
-![image](https://user-images.githubusercontent.com/95650769/147796240-3346cfb8-8beb-4a25-b6aa-155118d46087.png)
+![image](https://user-images.githubusercontent.com/95650769/147796265-7b55b0af-26cf-4012-a596-05dae7e6747c.png)
 screen capture video link:
 https://watch.screencastify.com/v/ApHEm7vmXS2Cdtla7TqR 
 4. Link to the page
